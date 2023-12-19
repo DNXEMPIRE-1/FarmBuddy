@@ -23,7 +23,4 @@ Welcome to FarmBuddy! This application is designed to assist farmers and individ
 
 ## Current Progress
 
-- [Briefly describe the current state of FarmBuddy]
-- [Mention any key features that have been implemented]
-- [Outline upcoming features or improvements]
 
